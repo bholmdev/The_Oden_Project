@@ -1,1 +1,6 @@
 multi-line commit message test
+
+Example:
+git commit -m "testing line 1
+testing line 2
+testing line 3"
